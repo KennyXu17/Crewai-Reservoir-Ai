@@ -82,4 +82,4 @@ crewai_reservoir/
 
 ## 📄 License
 
-MIT License © 2025 QihangX1995
+MIT License © 2025 KennyXu17
